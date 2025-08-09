@@ -1,0 +1,55 @@
+Documented Critical Vulnerabilities
+1. Node.js Multiple Vulnerabilities
+Plugin ID: 190856
+
+Severity: Critical (CVSS v3: 9.8)
+
+Description: Multiple high-severity vulnerabilities exist in outdated Node.js versions (18.x < 18.19.1, 20.x < 20.11.1, 21.x < 21.6.2). These could allow remote code execution or denial-of-service.
+
+Fix/Mitigation: Upgrade Node.js to version 18.19.1, 20.11.1, or 21.6.2 (or newer).
+
+Reference: Tenable Plugin 190856
+
+2. Node.js Multiple Vulnerabilities – July 2025 Release
+Plugin ID: 242134
+
+Severity: Critical (CVSS v3: 9.1)
+
+Description: Security flaws in Node.js versions (20.x < 20.19.4, 22.x < 22.17.1, 24.x < 24.4.1) may lead to privilege escalation or service compromise.
+
+Fix/Mitigation: Upgrade to 20.19.4, 22.17.1, or 24.4.1.
+
+Reference: Tenable Plugin 242134
+
+3. Node.js Multiple Vulnerabilities – April 2024 Release
+Plugin ID: 192945
+
+Severity: High (CVSS v3: 8.2)
+
+Description: Outdated Node.js versions (18.x < 18.20.1, 20.x < 20.12.1, 21.x < 21.7.2) contain vulnerabilities allowing potential code injection or memory corruption.
+
+Fix/Mitigation: Update to 18.20.1, 20.12.1, or 21.7.2.
+
+Reference: Tenable Plugin 192945
+
+4. Node.js Multiple Vulnerabilities – July 2024 Release
+Plugin ID: 201969
+
+Severity: High (CVSS v3: 8.1)
+
+Description: Multiple vulnerabilities exist in Node.js (18.x < 18.20.4, 20.x < 20.15.1, 22.x < 22.4.1) that could be exploited for denial-of-service or unauthorized access.
+
+Fix/Mitigation: Upgrade to 18.20.4, 20.15.1, or 22.4.1.
+
+Reference: Tenable Plugin 201969
+
+5. Node.js Multiple Vulnerabilities – January 2025 Release
+Plugin ID: 214404
+
+Severity: High (CVSS v3: 7.7)
+
+Description: Vulnerabilities in Node.js (18.x < 18.20.6, 20.x < 20.18.2, 22.x < 22.13.1, 23.x < 23.6.1) could cause application crashes or data leaks.
+
+Fix/Mitigation: Upgrade to 18.20.6, 20.18.2, 22.13.1, or 23.6.1.
+
+Reference: Tenable Plugin 214404
